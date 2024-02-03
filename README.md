@@ -1,1 +1,1 @@
-Authors: Eddie Falco, Trinity Tran 
+Authors: Eddie Falco, Trinity Tran
