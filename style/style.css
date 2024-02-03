@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Daydream";
+    src: local("Daydream"),
+    url("Daydream.ttf") format("truetype");
+}
+
+body {
+    background-color: #7C9EB2;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #14213d;
+    font-size: 150%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 { 
+    font-family: "Daydream";
+    color: white;
+    font-size: 300%;
+}
+
+h3 {
+    font-family: "Daydream";
+}
+
+footer {
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 50%;
+    text-align: center;
+    font-family: "Daydream";
+    color: white;
+  }
+
+  div {
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
