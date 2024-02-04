@@ -35,7 +35,18 @@ footer {
     color: white;
   }
 
-  div {
-    padding-top: 2%;
+div {
     padding-bottom: 2%;
-  }
+}
+
+img {
+    width: 200px;
+}
+
+.back:hover {
+    content: url('backbuttonpressed.png');
+}
+
+.about:hover {
+    content: url('btsbuttonpressed.png');
+}
